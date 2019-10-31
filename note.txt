@@ -1,0 +1,1 @@
+This is a note for first commit in note.txt
