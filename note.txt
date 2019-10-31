@@ -1,2 +1,3 @@
 This is a note for first commit in note.txt
 this is note has side developer.ali
+ali says some things
